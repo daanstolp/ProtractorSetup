@@ -1,0 +1,14 @@
+{
+  "name": "cookbook",
+  "version": "1.0.0",
+  "description": "An Outside-In Test Driver version of the Cookbook application using Protractor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daan Stolp",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.5.5"
+  }
+}
